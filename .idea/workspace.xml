@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8aa884e-d7d8-44d5-8bd8-f8b5652d8b1a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/mb_project/mb_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mb_project/mb_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mb_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mb_project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mb_project/posts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mb_project/posts/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
